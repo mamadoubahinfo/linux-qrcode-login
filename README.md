@@ -1,6 +1,9 @@
 # linux-qrcode-login
 Authenticate yourself to your Debian Desktop machine with a QR code!
 
+
+![Aperçu login de Linux](./qrcode-authenticator/QR_Debian_11.0.0_VB_LinuxVMImages.png)
+
 ## How to
 
 **Build package**
